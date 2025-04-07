@@ -1,4 +1,4 @@
-# 🚗 Rachai - Aplicativo de Locação de Veículos
+# 🚗 Rachai - Aplicativo de Carona solidaria
 
 Aplicativo Android para locação de veículos entre usuários, desenvolvido em Java utilizando Android Studio.
 
